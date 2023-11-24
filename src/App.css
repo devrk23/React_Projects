@@ -1,0 +1,47 @@
+.AboutEqual{
+    background-color: rgb(0, 0, 0);
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.skills{
+    background-image: url(./Assets/images/theme.JPG);
+    height: fit-content;
+    color:white;
+}
+
+:where(.css-dev-only-do-not-override-qgg3xn).ant-progress .ant-progress-text{
+    color: white;
+    font-weight: 500;
+}
+
+.titlebox{
+    background-color: rgb(216, 216, 57);
+    height:150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+}
+
+.about-carousels{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin:10px;
+}
+
+.achievebox{
+    background-image: url(./Assets/images/tech-bg.png);
+}
+
+.ContactUs{
+    height: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./Assets/images/yellowtheme.jpg);
+    font-size: xx-large;
+    color: white;
+}
